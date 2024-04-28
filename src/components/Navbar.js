@@ -81,23 +81,12 @@ function NavBar() {
 
             <Nav.Item>
             <Nav.Link
-                href="https://drive.google.com/file/d/1dFvSBznXQQ01OqtaFkhcEniVGx1cELUF/view?usp=sharing"
+                href="https://bennettu-my.sharepoint.com/personal/t22mceu0035_bennett_edu_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Ft22mceu0035%5Fbennett%5Fedu%5Fin%2FDocuments%2FAnjali%20Singh%20CV%20%287%29%2Epdf&parent=%2Fpersonal%2Ft22mceu0035%5Fbennett%5Fedu%5Fin%2FDocuments&ga=1"
                 target="_blank"
                 rel="noreferrer"
               >
                 <CgFileDocument style={{ marginBottom: "2px" }} /> Resume
               </Nav.Link>
-            </Nav.Item>
-
-            <Nav.Item className="fork-btn">
-              <Button
-                href="https://github.com/anupamraj1312/Anjali-Portfolio"
-                target="_blank"
-                className="fork-btn-inner"
-              >
-                <CgGitFork style={{ fontSize: "1.2em" }} />{" "}
-                <AiFillStar style={{ fontSize: "1.1em" }} />
-              </Button>
             </Nav.Item>
           </Nav>
         </Navbar.Collapse>

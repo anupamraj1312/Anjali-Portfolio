@@ -15,7 +15,7 @@ function ProjectCards(props) {
         </Card.Text>
         <Button variant="primary" href={props.demoLink} target="_blank">
           <CgWebsite /> &nbsp; 
-          {"Full Video"}
+          {props.buttonText}
         </Button>
         {"\n"}
         {"\n"}

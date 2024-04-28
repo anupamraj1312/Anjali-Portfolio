@@ -21,14 +21,8 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I am currently pursuing Journalism and Mass Communication at Bennett University. My passion lies in the fields of advertising and public relations.
-              <br />
-              <br />Beyond my studies, I actively seek out diverse experiences to broaden my perspective. Leading various extracurricular activities has sharpened my organizational skills and fostered a collaborative spirit in me. 
-              <br />
-              <br />
+              I am currently pursuing Journalism and Mass Communication at Bennett University. My passion lies in the fields of advertising and public relations. Beyond my studies, I actively seek out diverse experiences to broaden my perspective. Leading various extracurricular activities has sharpened my organizational skills and fostered a collaborative spirit in me. 
               Driven by curiosity and a desire for excellence, I am committed to making a meaningful impact in the ever-evolving realm of communication. 
-              <br />
-              <br />
               Whether it's executing advertising campaigns or crafting compelling news articles, I thrive on the dynamic challenges that communication presents.
             </p>
           </Col>
