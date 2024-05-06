@@ -2,13 +2,8 @@ import React, { useState } from "react";
 import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
 import Container from "react-bootstrap/Container";
-import logo from "../Assets/logo.png";
-import Button from "react-bootstrap/Button";
 import { Link } from "react-router-dom";
-import { CgGitFork } from "react-icons/cg";
-import { ImBlog } from "react-icons/im";
 import {
-  AiFillStar,
   AiOutlineHome,
   AiOutlineFundProjectionScreen,
   AiOutlineUser,
@@ -81,7 +76,7 @@ function NavBar() {
 
             <Nav.Item>
             <Nav.Link
-                href="https://bennettu-my.sharepoint.com/personal/t22mceu0035_bennett_edu_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Ft22mceu0035%5Fbennett%5Fedu%5Fin%2FDocuments%2FAnjali%20Singh%20CV%20%287%29%2Epdf&parent=%2Fpersonal%2Ft22mceu0035%5Fbennett%5Fedu%5Fin%2FDocuments&ga=1"
+                href="https://drive.google.com/file/d/1wodMltBaonH3thAHE9noTGAEX6ZLcGfa/view?usp=sharing"
                 target="_blank"
                 rel="noreferrer"
               >
